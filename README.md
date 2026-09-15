@@ -26,7 +26,6 @@ Billing Software is a Python-based application designed to generate bills quickl
 ## 🛠️ Technologies Used
 
 - 🐍 Python
-- 🗄️ MySQL
 - 🖥️ Tkinter
 
 ---
